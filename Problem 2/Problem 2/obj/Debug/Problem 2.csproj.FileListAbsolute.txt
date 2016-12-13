@@ -1,0 +1,5 @@
+W:\Github Repository\Project-Euler\Problem 2\Problem 2\bin\Debug\Problem 2.exe.config
+W:\Github Repository\Project-Euler\Problem 2\Problem 2\bin\Debug\Problem 2.exe
+W:\Github Repository\Project-Euler\Problem 2\Problem 2\bin\Debug\Problem 2.pdb
+W:\Github Repository\Project-Euler\Problem 2\Problem 2\obj\Debug\Problem 2.exe
+W:\Github Repository\Project-Euler\Problem 2\Problem 2\obj\Debug\Problem 2.pdb
